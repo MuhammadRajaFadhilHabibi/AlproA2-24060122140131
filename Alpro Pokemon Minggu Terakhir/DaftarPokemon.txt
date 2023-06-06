@@ -1,0 +1,9 @@
+pikachu   100
+
+pidgeot   70
+
+arbok     60
+
+nidoran   80
+
+raichu    90

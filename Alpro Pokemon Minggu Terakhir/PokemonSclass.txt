@@ -1,0 +1,4 @@
+Pokemon S class 
+pikachu 100
+nidoran 80
+raichu 90
